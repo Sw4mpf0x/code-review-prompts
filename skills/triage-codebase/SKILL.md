@@ -59,12 +59,7 @@ Format as a table:
 | External APIs | ... | ... |
 | Cloud provider | ... | ... |
 
-Then produce a **Mermaid architecture diagram** showing the major components and their relationships:
-
-```mermaid
-graph TD
-    ...
-```
+Then produce an architecture diagram showing the major components and their relationships:
 
 Include: frontend, backend services, databases, external APIs, queues, and any microservice topology.
 
@@ -140,12 +135,7 @@ Describe:
 - Any dynamic provisioning, auto-scaling, or lifecycle management
 - Namespaces, resource limits, or scheduling policies
 
-Produce a **Mermaid architecture diagram** showing the CI/CD build and deployment flow:
-
-```mermaid
-graph TD
-    ...
-```
+Produce a architecture diagram showing the CI/CD build and deployment flow:
 
 ---
 
